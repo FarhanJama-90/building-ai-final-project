@@ -1,5 +1,6 @@
-# building-ai-final-project # FreightFlow AI: Automated Dispatch & Billing Anomaly Detector
-Final project for the [Building AI](https://buildingai.elementsofai.com/) course by MinnaLearn and the University of Helsinki.
+# FreightFlow AI: Dispatch & Billing Anomaly Detector
+
+Building AI course project by Farhan Jama Hussein.
 
 ## Summary
 An AI-powered assistant for small-to-midsize trucking and logistics operations that automates load-to-driver matching, predicts route fuel and carbon costs, and flags billing or invoicing discrepancies before payment processing.
